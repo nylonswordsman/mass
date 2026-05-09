@@ -22,6 +22,6 @@ var $plugins =
 {"name":"TextPicture","status":true,"description":"Displays text as a picture.","parameters":{}},
 {"name":"ButtonPicture","status":false,"description":"Makes a picture clickable.","parameters":{}},
 {"name":"McKathlin_GameOver","status":true,"description":"MZ v1.3.1 Change what happens when the party dies or Game Over is called.","parameters":{"Party Death Common Event ID":"1","Show Game Over Scene":"true","After Game Over Common Event ID":""}},
-{"name":"SRD_UltraBase","status":true,"description":"Contains code required for HUD Maker Ultra. Does not affect the RPG Maker codebase.","parameters":{}},
-{"name":"SRD_HUDMakerUltra","status":true,"description":"Allows you to create and use HUDs for the map and battles.\r\nRequires the HUD Maker Ultra editor.","parameters":{"Auto-Reload HUD Data":"false","Enable Screenshots":"false","Hide Battle Status Window":"false","Hide Battle Selection Window":"false","Fade During Events":"true","Event Fade Opacity":"125","Fade Duration":"10","Map Visibility Code":"return true;","Battle Visibility Code":"return true;"}}
+{"name":"SRD_UltraBase","status":false,"description":"Contains code required for HUD Maker Ultra. Does not affect the RPG Maker codebase.","parameters":{}},
+{"name":"SRD_HUDMakerUltra","status":false,"description":"Allows you to create and use HUDs for the map and battles.\r\nRequires the HUD Maker Ultra editor.","parameters":{"Auto-Reload HUD Data":"false","Enable Screenshots":"false","Hide Battle Status Window":"false","Hide Battle Selection Window":"false","Fade During Events":"true","Event Fade Opacity":"125","Fade Duration":"10","Map Visibility Code":"return true;","Battle Visibility Code":"return true;"}}
 ];
