@@ -3,10 +3,10 @@ For keeping you lovely people updated on how close the game is to completion.
 - Days complete: 1 of 32
 - Dungeons complete: 1/9
 - Social links complete: 0/12
+- Camera footage complete: 0/?
 - [x] ~~Battle System~~
 - [ ] Tutorial
 - [ ] Shops
-- [ ] Camera Footage
 - [ ] HUD
 
 
