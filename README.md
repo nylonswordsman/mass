@@ -1,15 +1,3 @@
-## Progress Checklist:
-For keeping you lovely people updated on how close the game is to completion.
-- Days complete: 1 of 32
-- Dungeons complete: 1/9
-- Social links complete: 0/12
-- Camera footage complete: 0/?
-- [x] ~~Battle System~~
-- [ ] Tutorial
-- [ ] Shops
-- [ ] HUD
-
-
 ## Instructions
 Unfortunately, you can't just download this repo off of Github, extract it, and call it a day. Copies downloaded through Github won't launch, and also can't be updated. You'll have to clone the repo on your own device, but this is a quick, easy, and perfectly safe process.
 
